@@ -1,0 +1,74 @@
+body {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #ddd;
+    margin: 40px;
+}
+
+h1 {
+    color: #5c5c5c;
+}
+
+p {
+    color: grey;
+    font-size: 16px;
+}
+
+figcaption {
+    border: 1px solid #5e5e5e;
+    width: 224px;
+    margin: auto;
+    padding: 3px;
+    color: #5e5e5e;
+}
+
+blockquote {
+    color: #5c5c5c;
+    font-size: 14px;
+}
+
+.container {
+    padding: 10px;
+    color: grey;
+    background-color: #ccc;
+}
+
+.container img {
+    display: flex;
+    justify-content:flex-start;
+    margin-left: 30px;
+    width: 200px;
+}
+
+.list {
+    display: flex;
+}
+
+.list ul {
+    flex: 1;
+    align-self: center;
+}
+
+.list li {
+    text-align: left;
+}
+
+strong {
+    color: #5c5c5c;
+}
+
+.more {
+    font-size: 12px;
+    word-spacing: 1px;
+}
+
+.more a {
+    color: #5c5c5c;
+    text-decoration: none;
+}
+a {
+    text-decoration: none;
+    color: #5c5c5c;
+ 
+
+}
